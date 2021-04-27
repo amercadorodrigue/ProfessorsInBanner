@@ -1,0 +1,88 @@
+Fall2010-Spring2021
+Course{subject='ITEC', courseNumber='1001', instructor='Tacksoo Im', numStudents=25, courseTitle='Intro to Computing', term='Fall 2010', creditHours=4}
+Course{subject='ITEC', courseNumber='1001', instructor='Tacksoo Im', numStudents=20, courseTitle='Intro to Computing (Hybrid)', term='Fall 2010', creditHours=4}
+Course{subject='ITEC', courseNumber='2120', instructor='Tacksoo Im', numStudents=15, courseTitle='Intro to Programming', term='Fall 2010', creditHours=4}
+Course{subject='ITEC', courseNumber='1001', instructor='Tacksoo Im', numStudents=25, courseTitle='Intro to Computing', term='Spring 2011', creditHours=4}
+Course{subject='ITEC', courseNumber='2120', instructor='Tacksoo Im', numStudents=18, courseTitle='Intro to Programming', term='Spring 2011', creditHours=4}
+Course{subject='ITEC', courseNumber='2120', instructor='Tacksoo Im', numStudents=16, courseTitle='Intro to Programming', term='Spring 2011', creditHours=4}
+Course{subject='ITEC', courseNumber='2120', instructor='Tacksoo Im', numStudents=12, courseTitle='Intro to Programming', term='Fall 2011', creditHours=4}
+Course{subject='ITEC', courseNumber='2120', instructor='Tacksoo Im', numStudents=19, courseTitle='Intro to Programming', term='Fall 2011', creditHours=4}
+Course{subject='ITEC', courseNumber='2120', instructor='Tacksoo Im', numStudents=7, courseTitle='Intro to Programming', term='Fall 2011', creditHours=4}
+Course{subject='ITEC', courseNumber='2120', instructor='Tacksoo Im', numStudents=17, courseTitle='Intro to Programming', term='Spring 2012', creditHours=4}
+Course{subject='ITEC', courseNumber='2120', instructor='Tacksoo Im', numStudents=20, courseTitle='Intro to Programming', term='Spring 2012', creditHours=4}
+Course{subject='ITEC', courseNumber='2150', instructor='Tacksoo Im', numStudents=10, courseTitle='Intermediate Programming', term='Spring 2012', creditHours=4}
+Course{subject='ITEC', courseNumber='2120', instructor='Tacksoo Im', numStudents=25, courseTitle='Intro to Programming', term='Fall 2012', creditHours=4}
+Course{subject='ITEC', courseNumber='2150', instructor='Tacksoo Im', numStudents=17, courseTitle='Intermediate Programming', term='Fall 2012', creditHours=4}
+Course{subject='ITEC', courseNumber='3150', instructor='Tacksoo Im', numStudents=21, courseTitle='Advanced Programming', term='Fall 2012', creditHours=3}
+Course{subject='ITEC', courseNumber='2120', instructor='Tacksoo Im', numStudents=20, courseTitle='Intro to Programming', term='Spring 2013', creditHours=4}
+Course{subject='ITEC', courseNumber='3150', instructor='Tacksoo Im', numStudents=14, courseTitle='Advanced Programming', term='Spring 2013', creditHours=3}
+Course{subject='ITEC', courseNumber='3150', instructor='Tacksoo Im', numStudents=18, courseTitle='Advanced Programming', term='Spring 2013', creditHours=3}
+Course{subject='ITEC', courseNumber='3860', instructor='Tacksoo Im', numStudents=8, courseTitle='Software Development I', term='Spring 2013', creditHours=4}
+Course{subject='ITEC', courseNumber='1001', instructor='Tacksoo Im', numStudents=25, courseTitle='Intro to Computing', term='Fall 2013', creditHours=4}
+Course{subject='ITEC', courseNumber='2120', instructor='Tacksoo Im', numStudents=22, courseTitle='Intro to Programming', term='Fall 2013', creditHours=4}
+Course{subject='ITEC', courseNumber='3860', instructor='Tacksoo Im', numStudents=24, courseTitle='Software Development I', term='Fall 2013', creditHours=4}
+Course{subject='ITEC', courseNumber='1001', instructor='Tacksoo Im', numStudents=23, courseTitle='Intro to Computing', term='Spring 2014', creditHours=4}
+Course{subject='ITEC', courseNumber='1001', instructor='Tacksoo Im', numStudents=26, courseTitle='Intro to Computing', term='Spring 2014', creditHours=4}
+Course{subject='ITEC', courseNumber='3870', instructor='Tacksoo Im', numStudents=22, courseTitle='Software Development II', term='Spring 2014', creditHours=4}
+Course{subject='ITEC', courseNumber='2120', instructor='Tacksoo Im', numStudents=21, courseTitle='Intro to Programming', term='Fall 2014', creditHours=4}
+Course{subject='ITEC', courseNumber='2120', instructor='Tacksoo Im', numStudents=20, courseTitle='Intro to Programming', term='Fall 2014', creditHours=4}
+Course{subject='ITEC', courseNumber='4860', instructor='Tacksoo Im', numStudents=13, courseTitle='Software Development Project', term='Fall 2014', creditHours=3}
+Course{subject='ITEC', courseNumber='2120', instructor='Tacksoo Im', numStudents=21, courseTitle='Intro to Programming', term='Spring 2015', creditHours=4}
+Course{subject='ITEC', courseNumber='2120', instructor='Tacksoo Im', numStudents=24, courseTitle='Intro to Programming', term='Spring 2015', creditHours=4}
+Course{subject='ITEC', courseNumber='3870', instructor='Tacksoo Im', numStudents=16, courseTitle='Software Development II', term='Spring 2015', creditHours=4}
+Course{subject='ITEC', courseNumber='2120', instructor='Tacksoo Im', numStudents=12, courseTitle='Intro to Programming', term='Summer 2015', creditHours=4}
+Course{subject='ITEC', courseNumber='2120', instructor='Tacksoo Im', numStudents=22, courseTitle='Intro to Programming', term='Fall 2015', creditHours=4}
+Course{subject='ITEC', courseNumber='3870', instructor='Tacksoo Im', numStudents=26, courseTitle='Software Development II', term='Fall 2015', creditHours=4}
+Course{subject='ITEC', courseNumber='4860', instructor='Tacksoo Im', numStudents=9, courseTitle='Software Development Project', term='Fall 2015', creditHours=3}
+Course{subject='ITEC', courseNumber='2120', instructor='Tacksoo Im', numStudents=23, courseTitle='Intro to Programming', term='Spring 2016', creditHours=4}
+Course{subject='ITEC', courseNumber='2120', instructor='Tacksoo Im', numStudents=21, courseTitle='Intro to Programming', term='Spring 2016', creditHours=4}
+Course{subject='ITEC', courseNumber='3870', instructor='Tacksoo Im', numStudents=24, courseTitle='Software Development II', term='Spring 2016', creditHours=4}
+Course{subject='ITEC', courseNumber='4860', instructor='Tacksoo Im', numStudents=13, courseTitle='Software Development Project', term='Spring 2016', creditHours=3}
+Course{subject='ITEC', courseNumber='1001', instructor='Tacksoo Im', numStudents=13, courseTitle='Intro to Computing', term='Summer 2016', creditHours=4}
+Course{subject='ITEC', courseNumber='2120', instructor='Tacksoo Im', numStudents=24, courseTitle='Intro to Programming', term='Fall 2016', creditHours=4}
+Course{subject='ITEC', courseNumber='2120', instructor='Tacksoo Im', numStudents=23, courseTitle='Intro to Programming', term='Fall 2016', creditHours=4}
+Course{subject='ITEC', courseNumber='4860', instructor='Tacksoo Im', numStudents=12, courseTitle='Software Development Project', term='Fall 2016', creditHours=3}
+Course{subject='ITEC', courseNumber='4860', instructor='Tacksoo Im', numStudents=6, courseTitle='Software Development Project', term='Fall 2016', creditHours=3}
+Course{subject='ITEC', courseNumber='2120', instructor='Tacksoo Im', numStudents=25, courseTitle='Intro to Programming', term='Spring 2017', creditHours=4}
+Course{subject='ITEC', courseNumber='2120', instructor='Tacksoo Im', numStudents=21, courseTitle='Intro to Programming', term='Spring 2017', creditHours=4}
+Course{subject='ITEC', courseNumber='4260', instructor='Tacksoo Im', numStudents=15, courseTitle='Software Testing and QA', term='Spring 2017', creditHours=3}
+Course{subject='ITEC', courseNumber='1001', instructor='Tacksoo Im', numStudents=12, courseTitle='Intro to Computing', term='Summer 2017', creditHours=4}
+Course{subject='ITEC', courseNumber='1001', instructor='Tacksoo Im', numStudents=11, courseTitle='Intro to Computing', term='Fall 2017', creditHours=4}
+Course{subject='ITEC', courseNumber='1001', instructor='Tacksoo Im', numStudents=12, courseTitle='Intro to Computing', term='Fall 2017', creditHours=4}
+Course{subject='ITEC', courseNumber='2120', instructor='Tacksoo Im', numStudents=26, courseTitle='Intro to Programming', term='Fall 2017', creditHours=4}
+Course{subject='ITEC', courseNumber='4260', instructor='Tacksoo Im', numStudents=20, courseTitle='Software Testing and QA', term='Fall 2017', creditHours=3}
+Course{subject='ITEC', courseNumber='4260', instructor='Tacksoo Im', numStudents=11, courseTitle='Software Testing and QA', term='Fall 2017', creditHours=3}
+Course{subject='ITEC', courseNumber='4860', instructor='Tacksoo Im', numStudents=9, courseTitle='Software Development Project', term='Fall 2017', creditHours=3}
+Course{subject='ITEC', courseNumber='2120', instructor='Tacksoo Im', numStudents=21, courseTitle='Intro to Programming', term='Spring 2018', creditHours=4}
+Course{subject='ITEC', courseNumber='4260', instructor='Tacksoo Im', numStudents=26, courseTitle='Software Testing and QA', term='Spring 2018', creditHours=3}
+Course{subject='ITEC', courseNumber='4860', instructor='Tacksoo Im', numStudents=14, courseTitle='Software Development Project', term='Spring 2018', creditHours=3}
+Course{subject='ITEC', courseNumber='2120', instructor='Tacksoo Im', numStudents=20, courseTitle='Intro to Programming', term='Summer 2018', creditHours=4}
+Course{subject='ITEC', courseNumber='2120', instructor='Tacksoo Im', numStudents=23, courseTitle='Intro to Programming', term='Fall 2018', creditHours=4}
+Course{subject='ITEC', courseNumber='3150', instructor='Tacksoo Im', numStudents=28, courseTitle='Advanced Programming', term='Fall 2018', creditHours=3}
+Course{subject='ITEC', courseNumber='4260', instructor='Tacksoo Im', numStudents=15, courseTitle='Software Testing and QA', term='Fall 2018', creditHours=3}
+Course{subject='ITEC', courseNumber='4260', instructor='Tacksoo Im', numStudents=18, courseTitle='Software Testing and QA', term='Fall 2018', creditHours=3}
+Course{subject='ITEC', courseNumber='4860', instructor='Tacksoo Im', numStudents=12, courseTitle='Software Development Project', term='Fall 2018', creditHours=3}
+Course{subject='ITEC', courseNumber='1001', instructor='Tacksoo Im', numStudents=26, courseTitle='Intro to Computing', term='Spring 2019', creditHours=4}
+Course{subject='ITEC', courseNumber='1001', instructor='Tacksoo Im', numStudents=23, courseTitle='Intro to Computing', term='Spring 2019', creditHours=4}
+Course{subject='ITEC', courseNumber='2150', instructor='Tacksoo Im', numStudents=24, courseTitle='Intermediate Programming', term='Spring 2019', creditHours=4}
+Course{subject='ITEC', courseNumber='4260', instructor='Tacksoo Im', numStudents=17, courseTitle='Software Testing and QA', term='Spring 2019', creditHours=3}
+Course{subject='ITEC', courseNumber='2120', instructor='Tacksoo Im', numStudents=10, courseTitle='Intro to Programming', term='Summer 2019', creditHours=4}
+Course{subject='ITEC', courseNumber='3150', instructor='Tacksoo Im', numStudents=16, courseTitle='Advanced Programming', term='Summer 2019', creditHours=3}
+Course{subject='ITEC', courseNumber='1001', instructor='Tacksoo Im', numStudents=26, courseTitle='Intro to Computing', term='Fall 2019', creditHours=4}
+Course{subject='ITEC', courseNumber='2140', instructor='Tacksoo Im', numStudents=22, courseTitle='Programming Fundamentals', term='Fall 2019', creditHours=4}
+Course{subject='ITEC', courseNumber='2150', instructor='Tacksoo Im', numStudents=20, courseTitle='Intermediate Programming', term='Fall 2019', creditHours=4}
+Course{subject='ITEC', courseNumber='4260', instructor='Tacksoo Im', numStudents=15, courseTitle='Software Testing and QA', term='Fall 2019', creditHours=3}
+Course{subject='ITEC', courseNumber='3150', instructor='Tacksoo Im', numStudents=25, courseTitle='Advanced Programming', term='Spring 2020', creditHours=3}
+Course{subject='ITEC', courseNumber='4260', instructor='Tacksoo Im', numStudents=24, courseTitle='Software Testing and QA', term='Spring 2020', creditHours=3}
+Course{subject='ITEC', courseNumber='4260', instructor='Tacksoo Im', numStudents=7, courseTitle='Software Testing and QA', term='Spring 2020', creditHours=3}
+Course{subject='ITEC', courseNumber='4860', instructor='Tacksoo Im', numStudents=10, courseTitle='Software Development Project', term='Spring 2020', creditHours=3}
+Course{subject='ITEC', courseNumber='2120', instructor='Tacksoo Im', numStudents=18, courseTitle='Intro to Programming', term='Summer 2020', creditHours=4}
+Course{subject='ITEC', courseNumber='3150', instructor='Tacksoo Im', numStudents=25, courseTitle='Advanced Programming', term='Summer 2020', creditHours=3}
+Course{subject='ITEC', courseNumber='1001', instructor='Tacksoo Im', numStudents=30, courseTitle='Intro to Computing', term='Fall 2020', creditHours=4}
+Course{subject='ITEC', courseNumber='4260', instructor='Tacksoo Im', numStudents=20, courseTitle='Software Testing and QA', term='Fall 2020', creditHours=3}
+Course{subject='ITEC', courseNumber='4260', instructor='Tacksoo Im', numStudents=24, courseTitle='Software Testing and QA', term='Fall 2020', creditHours=3}
+Course{subject='ITEC', courseNumber='4860', instructor='Tacksoo Im', numStudents=13, courseTitle='Software Development Project', term='Fall 2020', creditHours=3}
+Course{subject='ITEC', courseNumber='2120', instructor='Tacksoo Im', numStudents=16, courseTitle='Intro to Programming', term='Spring 2021', creditHours=4}
+Course{subject='ITEC', courseNumber='2120', instructor='Tacksoo Im', numStudents=21, courseTitle='Intro to Programming', term='Spring 2021', creditHours=4}
+Course{subject='ITEC', courseNumber='4260', instructor='Tacksoo Im', numStudents=14, courseTitle='Software Testing and QA', term='Spring 2021', creditHours=3}
+Course{subject='ITEC', courseNumber='4260', instructor='Tacksoo Im', numStudents=8, courseTitle='Software Testing and QA', term='Spring 2021', creditHours=3}
